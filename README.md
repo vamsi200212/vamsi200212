@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Teja Sai Vamsi Kanuri</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on [Let's Talk Chat Application](https://github.com/vamsi200212/Chat-Application)
+- 🔭 I’m currently working on **Azure and .NET Framework**
 
 - 🌱 I’m currently learning **Front End Web Development**
 
