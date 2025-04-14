@@ -6,7 +6,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/vamsi200212](https://github.com/vamsi200212)  
 - 💬 Ask me about **C# .NET, Azure, Android, Java, and Python**  
 - 📫 How to reach me **vamsi200212@gmail.com**  
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mSRWuGU5uszS4BXl44zAtJvbnjTT7Pod/view?usp=sharing)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
